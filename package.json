@@ -1,0 +1,11 @@
+{
+  "name": "secret-board",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": "https://github.com/jonki324/secret-board.git",
+  "author": "jonki324 <jonki324@gmail.com>",
+  "license": "MIT"
+}
